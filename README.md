@@ -1,8 +1,8 @@
-# Análisis de Series Temporales
+# Análisis de series temporales
 
 Este proyecto utiliza técnicas de modelado de series temporales para analizar y predecir datos relacionados con taxis y su demanda horaria.
 
-## Objetivo del Proyecto
+## Objetivo del proyecto
 
 La compañía **Sweet Lift Taxi** ha recopilado datos históricos sobre pedidos de taxis en los aeropuertos. Para atraer a más conductores durante las horas pico, necesitamos predecir la cantidad de pedidos de taxis para la próxima hora. 
 
@@ -13,7 +13,7 @@ El objetivo es construir un modelo de predicción de series temporales cuya mét
 - **`analisis_series_temporales.ipynb`**: Notebook con el análisis y desarrollo del modelo.
 - **`taxi.csv`**: Dataset utilizado para el análisis.
 
-## Herramientas Utilizadas
+## Herramientas utilizadas
 
 - **Lenguaje**: Python
 - **Librerías**:
